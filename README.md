@@ -12,9 +12,10 @@ This lab demonstrates IPv6-first operations in an enterprise-style topology usin
 - **DNS (A + AAAA)** records for name-based access over IPv6
 - **IPv6 ACL** segmentation (least privilege) on Users LAN
 - **Rogue Router Advertisement** attack simulation (default gateway hijack) and remediation
-- Notes on Packet Tracer limitations (RA Guard enforcement)
 
 ---
+
+![Base Project SS](./Screenshots/Screenshot%202026-03-05%20173755.png)
 
 ## Table of Contents
 1. [Requirements](#requirements)
